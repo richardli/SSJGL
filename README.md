@@ -3,7 +3,7 @@
 
 Replication codes for the paper
 
-Zehang Richard Li, Tyler H. McCormick, and Samuel J. Clark. ["Bayesian joint spike-and-slab graphical lasso."](https://arxiv.org/abs/1805.07051), International Conference on Machine Learning, 2019
+Zehang Richard Li, Tyler H. McCormick, and Samuel J. Clark. ["Bayesian joint spike-and-slab graphical lasso"](https://arxiv.org/abs/1805.07051), International Conference on Machine Learning, 2019
 
 ### In this repo
 + Examples/ folder contains the codes to run the three examples in the paper, and one iteration of simulation.
